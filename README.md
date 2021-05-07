@@ -1,0 +1,2 @@
+# littleUniverse-CleanCaliforniaResponseInitiative
+A website designed to demonstrate three primary goals: Firstly, demonstrate strategies and techniques to building an accessible site. Second, Demonstrate work ethic and dedication and motivation to work for an environmentally conscious company that is progressive and looking to promote change. Lastly, Demonstrate best practices of a react website and clean and manageable code.   
