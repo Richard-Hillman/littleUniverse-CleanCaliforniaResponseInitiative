@@ -4,7 +4,7 @@ import {
   Route,
   Switch
 } from 'react-router-dom';
-
+import LandingPage from '../components/landingHeader/LandingHeader';
 
 
 export default function App() {
@@ -14,10 +14,7 @@ export default function App() {
 
         <Switch>
 
-          <Route 
-            path="/"
-            exact
-            component= />
+        <Route exact path="/" component={ LandingPage } />
 
         </Switch>
 
