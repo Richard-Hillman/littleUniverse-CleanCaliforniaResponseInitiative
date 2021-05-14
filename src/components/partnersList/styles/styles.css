@@ -1,6 +1,7 @@
 h1 {
     font-size: 3em;
     font-weight: bold;
+    margin: .5em;
 }
 
 h2 {
@@ -17,22 +18,29 @@ h2 {
 }
 
 .partnerSubHeader {
-    width: 40vw;
+    width: 50vw;
+    margin-bottom: 2.5em;
+}
+
+.partnerListBackground {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aliceblue;
 }
 
 .partnerListWrapper {
-    margin-top: 2em;
     font-size: 2em;
-    border: 1px black solid;
-    padding:1em 0em;
+
     text-align: justify;
 }
 
 .partnerOrg {
-    margin: 2em;
+    margin: 1.5em;
 }
 
 .laurisRozentals {
-    width: 40vw;
+    width: 32vw;
     height: auto;
 }
