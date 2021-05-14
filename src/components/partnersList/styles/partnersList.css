@@ -31,8 +31,8 @@ h2 {
 }
 
 .partnerListWrapper {
-    font-size: 2em;
-
+    font-size: 1.5em;
+    width: 60vw;
     text-align: justify;
 }
 

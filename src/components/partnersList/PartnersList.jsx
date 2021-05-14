@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './styles/styles.css'
+import styles from './styles/partnersList.css'
 import earthFirst from './partnersListAssets/pexels-lauris-rozentāls-3302183.jpg';
 
 
@@ -38,7 +38,6 @@ export default function PartnersList() {
                     <p className={styles.partnerOrg}>
                         <a href='https://www.libertyhill.org/'>Liberty Hill Foundation </a>
                         <p>This link will take you to Liberty Hill's website: a social justice epicenter. Here you can find many different social and environmentally focused initiatives that are making a huge impact. Their agenda includes LGBTQ Justice, economic justice, environmental justice, and racial justice. </p>
-                          
                     </p>
 
                     <p className={styles.partnerOrg}>

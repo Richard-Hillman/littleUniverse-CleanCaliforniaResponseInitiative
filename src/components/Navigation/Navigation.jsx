@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import styles from './Navigation.css';
+import styles from './styles/Navigation.css';
 
 
 export default function Navigation() {
