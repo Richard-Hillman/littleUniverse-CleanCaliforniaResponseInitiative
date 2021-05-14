@@ -1,0 +1,78 @@
+
+.navContainer {
+  background-color: rgb(244, 244, 244);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 8vh;
+  line-height: 2em;
+  position: fixed;
+  top: 0px;
+  width: 100vw;
+  z-index: 100;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.2);
+  font-family: 'Heebo', sans-serif;
+}
+
+.navList {
+  padding-inline-start: 0;
+}
+
+.navItem {
+  margin-left: 1em;
+  margin-right: 1em;
+  display: inline-block;
+  color: rgb(43, 44, 40);
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navItem img {
+  width: 24px;
+  height: auto;
+  margin-left: -1em;
+  margin-right: -1em;
+  margin-bottom: -0.4em;
+}
+
+.navItem:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: rgb(43, 44, 40);
+}
+
+.navItem a:link {
+  color: rgb(43, 44, 40);
+  text-decoration: none;
+}
+
+.navItem a:visited {
+  text-decoration: none;
+  color: rgb(43, 44, 40);
+}
+
+.logo {
+  margin-left: 1em;
+  font-size: 50px;
+  font-weight: bolder;
+  padding-left: 15px;
+  text-decoration: none;
+  color: rgb(43, 44, 40);
+}
+
+.logo:hover {
+  text-decoration: none;
+  color: rgb(43, 44, 40);
+}
+
+.logo a:link {
+  color: rgb(43, 44, 40);
+  text-decoration: none;
+}
+
+.logo a:visited {
+  color: rgb(43, 44, 40);
+}
