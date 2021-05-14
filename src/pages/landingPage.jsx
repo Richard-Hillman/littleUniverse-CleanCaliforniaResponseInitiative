@@ -1,11 +1,14 @@
 import React from 'react'
 import LandingHeader from '../components/landingHeader/LandingHeader'
+import Navigation from '../components/navigation/Navigation'
+
+
 
 export default function LandingPage() {
     return (
-        <div>
-            <p>Text</p>
+        <section>
+            <Navigation />
             <LandingHeader />
-        </div>
+        </section>
     )
 }

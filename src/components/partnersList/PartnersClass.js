@@ -1,0 +1,1 @@
+export const Partner = (name, link) => { return { Organization : name, link: link } }

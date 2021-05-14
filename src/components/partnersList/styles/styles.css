@@ -1,0 +1,38 @@
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+.partnersWrapper {
+    margin-top: 6em;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.partnerSubHeader {
+    width: 40vw;
+}
+
+.partnerListWrapper {
+    margin-top: 2em;
+    font-size: 2em;
+    border: 1px black solid;
+    padding:1em 0em;
+    text-align: justify;
+}
+
+.partnerOrg {
+    margin: 2em;
+}
+
+.laurisRozentals {
+    width: 40vw;
+    height: auto;
+}

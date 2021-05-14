@@ -1,9 +1,15 @@
-import React from 'react'
+import React from 'react';
+import Navigation from '../components/navigation/Navigation';
+import PartnersList from '../components/partnersList/PartnersList';
 
-export default function listOfPartnersPage() {
+
+export default function ListOfPartnersPage() {
     return (
-        <div>
-            
-        </div>
+        <>
+        <section>
+            <Navigation />
+            <PartnersList /> 
+        </section>
+        </>
     )
 }
