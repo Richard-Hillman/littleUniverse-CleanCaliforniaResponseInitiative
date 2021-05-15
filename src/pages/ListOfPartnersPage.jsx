@@ -1,7 +1,7 @@
 import React from 'react';
 import Navigation from '../components/navigation/Navigation';
 import PartnersList from '../components/partnersList/PartnersList';
-import Footer from '../components/footer/Footer'
+import Footer from '../components/footer/Footer';
 
 export default function ListOfPartnersPage() {
     return (
