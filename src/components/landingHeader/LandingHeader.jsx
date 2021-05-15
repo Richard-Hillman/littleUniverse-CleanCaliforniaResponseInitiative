@@ -2,7 +2,7 @@ import React from 'react';
 import contactImage from './landingHeaderAssets/pexels-josh-hild-3573383.jpg';
 import '../../styles/resetStyles.css';
 import '../../styles/mainStyles.css';
-import styles from './styles/styles.css';
+import styles from './styles/landingHeader.css';
 
 function LandingHeader() {
   return (

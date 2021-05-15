@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import styles from './Footer.css';
+import styles from './styles/footer.css';
 
 export default function Footer() {
 
