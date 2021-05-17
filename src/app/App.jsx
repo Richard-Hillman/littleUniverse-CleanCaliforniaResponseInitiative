@@ -17,11 +17,11 @@ export default function App() {
 
         <Switch>
 
-        <Route exact path="/" component={ LandingPage } />
-        <Route exact path="/contact" component={ ContactMePage } />
-        <Route exact path="/partners" component={ ListOfPartnersPage } />
-        <Route exact path="/benefits" component={ ListOfBenefitsPage } />
-        <Route exact path="/about" component={ AboutMePage } />
+          <Route exact path="/" component={ LandingPage } />
+          <Route exact path="/contact" component={ ContactMePage } />
+          <Route exact path="/partners" component={ ListOfPartnersPage } />
+          <Route exact path="/benefits" component={ ListOfBenefitsPage } />
+          <Route exact path="/about" component={ AboutMePage } />
 
         </Switch>
 

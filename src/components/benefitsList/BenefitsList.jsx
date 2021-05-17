@@ -7,7 +7,8 @@ export default function BenefitsList() {
             <section className={styles.benefitsWrapper}>
                 <h1>Benefits and more information</h1>
 
-                <div className={styles.benefitsText}>
+
+                <div className={styles.benefitsTextOverall}>
                     
                     <a href='https://cleanvehiclerebate.org/eng'><h2>Clean Vehicle Rebate Project</h2></a>
                     <p className={styles.benefitsParagraph}>Here is the direct link to the organizations website.The Clean Vehicle Rebate Project, or CVRP, is offering rebates of up to $7,000 for the purchase or leasing of eligible zero-emission vehicles. This includes electric vehicles and electric motorcycles, plug-in hybrid, and fuel cell vehicles. As long as funds are available, eligible California residents can apply for the CVRP rebate. If no funds available you are still encouraged to apply but will be placed on a wait-list.  </p>
