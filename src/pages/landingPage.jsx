@@ -1,5 +1,4 @@
 import React from 'react';
-
 import LandingHeader from '../components/landingHeader/LandingHeader';
 import Navigation from '../components/navigation/Navigation';
 import Footer from '../components/footer/Footer';
