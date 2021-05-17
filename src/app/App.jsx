@@ -4,8 +4,8 @@ import {
   Route,
   Switch
 } from 'react-router-dom';
-import LandingPage from '../pages/LandingPage';
 import ContactMePage from '../pages/ContactMePage';
+import LandingPage from '../pages/LandingPage';
 import ListOfPartnersPage from '../pages/ListOfPartnersPage';
 import ListOfBenefitsPage from '../pages/ListOfBenefitsPage';
 import AboutMePage from '../pages/AboutMePage';
