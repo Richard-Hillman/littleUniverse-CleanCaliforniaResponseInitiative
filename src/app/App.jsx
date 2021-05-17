@@ -17,7 +17,7 @@ export default function App() {
 
         <Switch>
 
-          <Route exact path="/" component={ LandingPage } />
+          <Route exact path="/landing" component={ LandingPage } />
           <Route exact path="/contact" component={ ContactMePage } />
           <Route exact path="/partners" component={ ListOfPartnersPage } />
           <Route exact path="/benefits" component={ ListOfBenefitsPage } />
