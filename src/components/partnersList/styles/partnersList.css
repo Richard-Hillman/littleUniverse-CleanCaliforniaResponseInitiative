@@ -1,13 +1,3 @@
-h1 {
-    font-size: 3em;
-    font-weight: bold;
-    margin: .5em;
-}
-
-h2 {
-    font-size: 2em;
-}
-
 .partnersWrapper {
     margin-top: 6em;
     display: flex;
